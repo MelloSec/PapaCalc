@@ -1,0 +1,5 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\bin\Release\PapaCalc.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\bin\Release\PapaCalc.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Release\PapaCalc.csproj.CoreCompileInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Release\PapaCalc.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Release\PapaCalc.pdb

@@ -1,0 +1,6 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\bin\Debug\PapaCalc.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\bin\Debug\PapaCalc.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Debug\PapaCalc.csproj.AssemblyReference.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Debug\PapaCalc.csproj.CoreCompileInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Debug\PapaCalc.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\PapaCalc\obj\Debug\PapaCalc.pdb
